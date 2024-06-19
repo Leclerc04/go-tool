@@ -2,7 +2,7 @@ package scanner
 
 import (
 	"encoding/json"
-	"github.com/HiBugEnterprise/gotools/jsonc"
+	"github.com/bellingham07/go-tool/jsonc"
 	"os/exec"
 )
 

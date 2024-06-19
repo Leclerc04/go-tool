@@ -3,8 +3,8 @@ package ips
 import (
 	"errors"
 	"fmt"
-	"github.com/HiBugEnterprise/gotools/httpc"
-	"github.com/HiBugEnterprise/gotools/jsonc"
+	"github.com/bellingham07/go-tool/httpc"
+	"github.com/bellingham07/go-tool/jsonc"
 	"net"
 	"net/http"
 	"strings"

@@ -4,30 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086e272a-cf7d-44a4-8e29-03a42e7e8cc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/stream.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/stream_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encryt/encrpt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorx/code.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorx/errorx.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorx/msg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/client_options.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/fetch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/request_options.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/response.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpc/response_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ips/iptools.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ips/iptools_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonc/sonic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpcserver/loggerInterceptor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scanner/scanlang.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scanner/scanlang_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timec/time.go" afterDir="false" />
+    <list default="true" id="086e272a-cf7d-44a4-8e29-03a42e7e8cc6" name="Changes" comment="add tool">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/stream.go" beforeDir="false" afterPath="$PROJECT_DIR$/chat/stream.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpc/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpc/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpc/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpc/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpc/fetch.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpc/fetch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpc/response.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpc/response.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips/iptools.go" beforeDir="false" afterPath="$PROJECT_DIR$/ips/iptools.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcserver/loggerInterceptor.go" beforeDir="false" afterPath="$PROJECT_DIR$/rpcserver/loggerInterceptor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/scanlang.go" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/scanlang.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "master",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/GoProject/go-tool",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GoProject/go-tool&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProject\go-tool" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +65,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="add tool" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tool" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

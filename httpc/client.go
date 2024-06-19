@@ -2,7 +2,7 @@ package httpc
 
 import (
 	"bytes"
-	"github.com/HiBugEnterprise/gotools/errorx"
+	"github.com/bellingham07/go-tool/errorx"
 	"github.com/go-resty/resty/v2"
 	"io"
 	"k8s.io/apimachinery/pkg/util/sets"

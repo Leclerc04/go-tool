@@ -1,7 +1,7 @@
 package httpc
 
 import (
-	"github.com/HiBugEnterprise/gotools/errorx"
+	"github.com/bellingham07/go-tool/errorx"
 	"github.com/go-resty/resty/v2"
 	"net/http"
 )

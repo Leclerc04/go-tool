@@ -3,7 +3,7 @@ package httpc
 import (
 	"context"
 	"errors"
-	"github.com/HiBugEnterprise/gotools/errorx"
+	"github.com/bellingham07/go-tool/errorx"
 	"github.com/zeromicro/go-zero/core/logc"
 	"github.com/zeromicro/go-zero/rest/httpx"
 	"net/http"
