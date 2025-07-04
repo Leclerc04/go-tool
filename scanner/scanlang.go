@@ -2,8 +2,9 @@ package scanner
 
 import (
 	"encoding/json"
-	"github.com/bellingham07/go-tool/jsonc"
 	"os/exec"
+
+	"github.com/leclecr04/go-tool/jsonc"
 )
 
 type LangStatHeader struct {

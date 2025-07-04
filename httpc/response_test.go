@@ -1,8 +1,9 @@
 package httpc
 
 import (
-	"github.com/bellingham07/go-tool/errorx"
 	"testing"
+
+	"github.com/leclecr04/go-tool/errorx"
 )
 
 func TestResponse(t *testing.T) {

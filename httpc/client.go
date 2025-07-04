@@ -2,13 +2,14 @@ package httpc
 
 import (
 	"bytes"
-	"github.com/bellingham07/go-tool/errorx"
-	"github.com/go-resty/resty/v2"
 	"io"
-	"k8s.io/apimachinery/pkg/util/sets"
 	"net/http"
 	"os"
 	"time"
+
+	"github.com/go-resty/resty/v2"
+	"github.com/leclecr04/go-tool/errorx"
+	"k8s.io/apimachinery/pkg/util/sets"
 )
 
 const (

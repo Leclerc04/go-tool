@@ -3,11 +3,12 @@ package ips
 import (
 	"errors"
 	"fmt"
-	"github.com/bellingham07/go-tool/httpc"
-	"github.com/bellingham07/go-tool/jsonc"
 	"net"
 	"net/http"
 	"strings"
+
+	"github.com/leclecr04/go-tool/httpc"
+	"github.com/leclecr04/go-tool/jsonc"
 )
 
 const ipurl = "https://ip.cn/api/index"

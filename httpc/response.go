@@ -3,10 +3,11 @@ package httpc
 import (
 	"context"
 	"errors"
-	"github.com/bellingham07/go-tool/errorx"
+	"net/http"
+
+	"github.com/leclecr04/go-tool/errorx"
 	"github.com/zeromicro/go-zero/core/logc"
 	"github.com/zeromicro/go-zero/rest/httpx"
-	"net/http"
 )
 
 type Response struct {

@@ -1,11 +1,12 @@
 package httpc
 
 import (
-	"github.com/bellingham07/go-tool/errorx"
 	"io"
 	"log"
 	"net/http"
 	"strings"
+
+	"github.com/leclecr04/go-tool/errorx"
 
 	"github.com/zeromicro/go-zero/core/jsonx"
 

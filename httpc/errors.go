@@ -1,9 +1,10 @@
 package httpc
 
 import (
-	"github.com/bellingham07/go-tool/errorx"
-	"github.com/go-resty/resty/v2"
 	"net/http"
+
+	"github.com/go-resty/resty/v2"
+	"github.com/leclecr04/go-tool/errorx"
 )
 
 func NewErrorFromRestyResponse(res *resty.Response) *errorx.Error {
