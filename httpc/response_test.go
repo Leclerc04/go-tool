@@ -3,7 +3,7 @@ package httpc
 import (
 	"testing"
 
-	"github.com/leclecr04/go-tool/errorx"
+	"github.com/leclerc04/go-tool/errorx"
 )
 
 func TestResponse(t *testing.T) {

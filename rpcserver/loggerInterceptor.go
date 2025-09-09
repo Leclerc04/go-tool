@@ -3,7 +3,7 @@ package rpcserver
 import (
 	"context"
 
-	"github.com/leclecr04/go-tool/errorx"
+	"github.com/leclerc04/go-tool/errorx"
 	"github.com/pkg/errors"
 	"github.com/zeromicro/go-zero/core/logx"
 	"google.golang.org/grpc"

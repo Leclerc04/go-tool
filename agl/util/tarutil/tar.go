@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // UntarGZ untar the tar data to a target path.

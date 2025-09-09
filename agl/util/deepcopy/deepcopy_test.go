@@ -3,8 +3,8 @@ package deepcopy_test
 import (
 	"testing"
 
-	. "github.com/leclecr04/go-tool/agl/util/deepcopy"
-	"github.com/leclecr04/go-tool/agl/util/jsonutil"
+	. "github.com/leclerc04/go-tool/agl/util/deepcopy"
+	"github.com/leclerc04/go-tool/agl/util/jsonutil"
 )
 
 // This tests both []interface{} that contains strings and []string

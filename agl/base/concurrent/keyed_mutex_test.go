@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/util/must"
 )
 
 func TestKeyedMutex(t *testing.T) {

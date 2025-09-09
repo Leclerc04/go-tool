@@ -3,7 +3,7 @@ package cryptoutil_test
 import (
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/cryptoutil"
+	"github.com/leclerc04/go-tool/agl/util/cryptoutil"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/cache"
-	"github.com/leclecr04/go-tool/agl/util/errs"
-	"github.com/leclecr04/go-tool/agl/util/timeutil"
+	"github.com/leclerc04/go-tool/agl/base/cache"
+	"github.com/leclerc04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/timeutil"
 	"github.com/stretchr/testify/assert"
 )
 

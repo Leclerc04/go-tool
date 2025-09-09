@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2"
-	"github.com/leclecr04/go-tool/errorx"
+	"github.com/leclerc04/go-tool/errorx"
 	"k8s.io/apimachinery/pkg/util/sets"
 )
 

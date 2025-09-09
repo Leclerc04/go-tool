@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/base/sentry"
+	"github.com/leclerc04/go-tool/agl/base/sentry"
 )
 
 func TestRecover(t *testing.T) {

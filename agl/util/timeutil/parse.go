@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 var timeWithoutZonePattern = regexp.MustCompile(`^([0-9]{2}:[0-9]{2}:[0-9]{2})$`)

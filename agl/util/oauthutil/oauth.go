@@ -13,9 +13,9 @@ import (
 
 	"strings"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
-	"github.com/leclecr04/go-tool/agl/util/strs"
-	"github.com/leclecr04/go-tool/agl/util/timeutil"
+	"github.com/leclerc04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/strs"
+	"github.com/leclerc04/go-tool/agl/util/timeutil"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/leclecr04/go-tool/errorx"
+	"github.com/leclerc04/go-tool/errorx"
 	"github.com/zeromicro/go-zero/core/logc"
 	"github.com/zeromicro/go-zero/rest/httpx"
 )

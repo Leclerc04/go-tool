@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"github.com/golang/glog"
-	"github.com/leclecr04/go-tool/agl/util/errs"
-	"github.com/leclecr04/go-tool/agl/util/must"
-	"github.com/leclecr04/go-tool/agl/util/simplejson"
+	"github.com/leclerc04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/simplejson"
 )
 
 // RawJSON is the same as json.RawMessage,

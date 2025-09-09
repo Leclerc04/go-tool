@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // HTMLToPDF converts html string to pdf bytes, opts is options for wkhtmltopdf

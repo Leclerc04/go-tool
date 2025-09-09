@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/must"
 )
 
 // Error implements error interface and capture the relevant information.

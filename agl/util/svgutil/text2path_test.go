@@ -3,7 +3,7 @@ package svgutil_test
 import (
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/svgutil"
+	"github.com/leclerc04/go-tool/agl/util/svgutil"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"math/rand"
 
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/must"
 )
 
 // Crypto is a cryptographically strong Rand. Use it for tokens, password etc.

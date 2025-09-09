@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/base/trace"
 )
 
 func TestLog(t *testing.T) {

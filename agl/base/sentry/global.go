@@ -12,9 +12,9 @@ import (
 
 	"github.com/getsentry/raven-go"
 	"github.com/golang/glog"
-	"github.com/leclecr04/go-tool/agl/base/mon"
-	"github.com/leclecr04/go-tool/agl/base/trace"
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/base/mon"
+	"github.com/leclerc04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 type logger context.Context

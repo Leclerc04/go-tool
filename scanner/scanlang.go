@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"os/exec"
 
-	"github.com/leclecr04/go-tool/jsonc"
+	"github.com/leclerc04/go-tool/jsonc"
 )
 
 type LangStatHeader struct {

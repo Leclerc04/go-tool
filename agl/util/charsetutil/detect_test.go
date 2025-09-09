@@ -5,8 +5,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/testutil"
-	"github.com/leclecr04/go-tool/agl/util/charsetutil"
+	"github.com/leclerc04/go-tool/agl/testutil"
+	"github.com/leclerc04/go-tool/agl/util/charsetutil"
 )
 
 func TestDetect(t *testing.T) {

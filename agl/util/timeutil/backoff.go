@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // BackOff returns a exponential backoff duration between baseDelay and maxDelay.

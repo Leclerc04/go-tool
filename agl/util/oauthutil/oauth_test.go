@@ -12,9 +12,9 @@ import (
 
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
-	"github.com/leclecr04/go-tool/agl/util/must"
-	"github.com/leclecr04/go-tool/agl/util/oauthutil"
+	"github.com/leclerc04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/oauthutil"
 )
 
 type testStore struct {

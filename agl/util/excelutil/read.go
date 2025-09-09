@@ -3,7 +3,7 @@ package excelutil
 import (
 	"fmt"
 
-	"github.com/leclecr04/go-tool/agl/util/charsetutil"
+	"github.com/leclerc04/go-tool/agl/util/charsetutil"
 
 	"bytes"
 

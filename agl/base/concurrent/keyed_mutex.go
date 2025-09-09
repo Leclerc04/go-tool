@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 	semaphore "golang.org/x/sync/semaphore"
 )
 

@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/leclecr04/go-tool/agl/base/mon"
-	"github.com/leclecr04/go-tool/agl/base/sentry"
-	"github.com/leclecr04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/base/mon"
+	"github.com/leclerc04/go-tool/agl/base/sentry"
+	"github.com/leclerc04/go-tool/agl/base/trace"
 )
 
 var (

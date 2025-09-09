@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/htmlutil"
+	"github.com/leclerc04/go-tool/agl/util/htmlutil"
 	"github.com/stretchr/testify/assert"
 )
 

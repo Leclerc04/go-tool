@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
 )
 
 // RunPeriodically runs the given action periodically in a new goroutine.

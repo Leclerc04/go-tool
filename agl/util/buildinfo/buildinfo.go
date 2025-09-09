@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // GitCommit is the commit hash when this binary is built.
@@ -56,7 +56,7 @@ func Release() string {
 }
 
 func LDFlags() string {
-	pkgName := "github.com/leclecr04/go-tool/agl/util/buildinfo"
+	pkgName := "github.com/leclerc04/go-tool/agl/util/buildinfo"
 	hostname, err := os.Hostname()
 	errs.Ignore(err)
 	commitSHA := os.Getenv("CI_COMMIT_SHA")

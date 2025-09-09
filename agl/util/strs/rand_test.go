@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/strs"
+	"github.com/leclerc04/go-tool/agl/util/strs"
 )
 
 func TestRand(t *testing.T) {

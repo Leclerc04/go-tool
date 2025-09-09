@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/mon"
+	"github.com/leclerc04/go-tool/agl/base/mon"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/util/timeutil"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/util/timeutil"
 )
 
 var (

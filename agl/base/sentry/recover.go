@@ -3,7 +3,7 @@ package sentry
 import (
 	"context"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // Recover recovers panic and report it to sentry. And re-panic.

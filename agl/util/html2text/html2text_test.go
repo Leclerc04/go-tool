@@ -3,7 +3,7 @@ package html2text_test
 import (
 	"testing"
 
-	. "github.com/leclecr04/go-tool/agl/util/html2text"
+	. "github.com/leclerc04/go-tool/agl/util/html2text"
 	"github.com/stretchr/testify/assert"
 )
 

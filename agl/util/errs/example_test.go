@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 	"github.com/stretchr/testify/assert"
 )
 

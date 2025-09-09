@@ -3,7 +3,7 @@ package jsonutil
 import (
 	"encoding/json"
 
-	"github.com/leclecr04/go-tool/agl/util/simplejson"
+	"github.com/leclerc04/go-tool/agl/util/simplejson"
 )
 
 // Merge performs a partial update and apply it to "to".

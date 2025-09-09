@@ -2,8 +2,8 @@ package sentry
 
 import (
 	raven "github.com/getsentry/raven-go"
-	"github.com/leclecr04/go-tool/agl/base/trace"
-	"github.com/leclecr04/go-tool/agl/util/buildinfo"
+	"github.com/leclerc04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/util/buildinfo"
 )
 
 // NewClient creates a new sentry client.

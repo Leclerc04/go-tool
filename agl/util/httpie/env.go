@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/mon"
-	"github.com/leclecr04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/base/mon"
+	"github.com/leclerc04/go-tool/agl/base/trace"
 )
 
 // httpie encapsulate HTTP request.

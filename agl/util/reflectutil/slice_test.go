@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/leclecr04/go-tool/agl/util/must"
-	"github.com/leclecr04/go-tool/agl/util/reflectutil"
+	"github.com/leclerc04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/reflectutil"
 )
 
 func TestSliceBuilder(t *testing.T) {

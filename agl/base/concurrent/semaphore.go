@@ -3,8 +3,8 @@ package concurrent
 import (
 	"context"
 
-	"github.com/leclecr04/go-tool/agl/base/trace"
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 	"golang.org/x/sync/semaphore"
 )
 

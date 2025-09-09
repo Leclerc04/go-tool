@@ -3,8 +3,8 @@ package pipe
 import (
 	"io"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 )
 
 // WriterToReader pipes writer to reader.

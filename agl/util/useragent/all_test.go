@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/useragent"
+	"github.com/leclerc04/go-tool/agl/util/useragent"
 )
 
 func makeOSInfo(full, name, version string) *useragent.OSInfo {

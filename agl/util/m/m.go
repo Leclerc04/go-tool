@@ -5,8 +5,8 @@ import (
 
 	"reflect"
 
-	"github.com/leclecr04/go-tool/agl/util/jsonutil"
-	"github.com/leclecr04/go-tool/agl/util/reflectutil"
+	"github.com/leclerc04/go-tool/agl/util/jsonutil"
+	"github.com/leclerc04/go-tool/agl/util/reflectutil"
 )
 
 type M map[string]interface{}

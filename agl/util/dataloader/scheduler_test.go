@@ -4,7 +4,7 @@ import (
 	"runtime/debug"
 	"testing"
 
-	dataloader "github.com/leclecr04/go-tool/agl/util/dataloader"
+	dataloader "github.com/leclerc04/go-tool/agl/util/dataloader"
 )
 
 func TestScheduler(t *testing.T) {

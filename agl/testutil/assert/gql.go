@@ -3,7 +3,7 @@ package assert
 import (
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/simplejson"
+	"github.com/leclerc04/go-tool/agl/util/simplejson"
 	"github.com/stretchr/testify/assert"
 )
 

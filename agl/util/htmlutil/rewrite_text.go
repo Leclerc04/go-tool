@@ -5,8 +5,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/leclecr04/go-tool/agl/base/trace"
-	"github.com/leclecr04/go-tool/agl/util/strs"
+	"github.com/leclerc04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/util/strs"
 
 	"golang.org/x/net/html"
 )

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/must"
 )
 
 // Manager controls a glyphMap stroring unicode:glyph pairs

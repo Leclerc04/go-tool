@@ -7,11 +7,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/base/sentry"
-	"github.com/leclecr04/go-tool/agl/base/trace"
-	"github.com/leclecr04/go-tool/agl/util/errs"
-	"github.com/leclecr04/go-tool/agl/util/timeutil"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/base/sentry"
+	"github.com/leclerc04/go-tool/agl/base/trace"
+	"github.com/leclerc04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/timeutil"
 )
 
 // Local provides a local in memory cache that loads asynchronously.

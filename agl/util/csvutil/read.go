@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"io"
 
-	"github.com/leclecr04/go-tool/agl/util/pipe"
+	"github.com/leclerc04/go-tool/agl/util/pipe"
 )
 
 // BOMutf8 is byte order mark for utf8 used for content detetion.

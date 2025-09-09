@@ -15,9 +15,9 @@ import (
 	"testing"
 
 	"github.com/kylelemons/godebug/diff"
-	"github.com/leclecr04/go-tool/agl/util/jsonutil"
-	"github.com/leclecr04/go-tool/agl/util/must"
-	"github.com/leclecr04/go-tool/agl/util/simplejson"
+	"github.com/leclerc04/go-tool/agl/util/jsonutil"
+	"github.com/leclerc04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/simplejson"
 	"github.com/stretchr/testify/assert"
 )
 

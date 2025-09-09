@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/leclecr04/go-tool/agl/base/concurrent"
-	"github.com/leclecr04/go-tool/agl/base/sentry"
+	"github.com/leclerc04/go-tool/agl/base/concurrent"
+	"github.com/leclerc04/go-tool/agl/base/sentry"
 )
 
 // workreg provides a way to run things once.

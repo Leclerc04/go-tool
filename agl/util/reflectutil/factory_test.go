@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/reflectutil"
+	"github.com/leclerc04/go-tool/agl/util/reflectutil"
 )
 
 type a struct{}

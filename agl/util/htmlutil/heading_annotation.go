@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/must"
 
 	"golang.org/x/net/html"
 )

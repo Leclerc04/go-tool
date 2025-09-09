@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/leclecr04/go-tool/httpc"
-	"github.com/leclecr04/go-tool/jsonc"
+	"github.com/leclerc04/go-tool/httpc"
+	"github.com/leclerc04/go-tool/jsonc"
 )
 
 const ipurl = "https://ip.cn/api/index"

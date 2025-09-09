@@ -12,8 +12,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/deepcopy"
-	"github.com/leclecr04/go-tool/agl/util/must"
+	"github.com/leclerc04/go-tool/agl/util/deepcopy"
+	"github.com/leclerc04/go-tool/agl/util/must"
 	"github.com/stretchr/testify/assert"
 )
 

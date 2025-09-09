@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"regexp"
 
-	jsonx "github.com/leclecr04/go-tool/jsonc"
+	jsonx "github.com/leclerc04/go-tool/jsonc"
 )
 
 type Answer struct {

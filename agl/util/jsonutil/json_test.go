@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	assert2 "github.com/leclecr04/go-tool/agl/testutil/assert"
-	. "github.com/leclecr04/go-tool/agl/util/jsonutil"
-	"github.com/leclecr04/go-tool/agl/util/must"
+	assert2 "github.com/leclerc04/go-tool/agl/testutil/assert"
+	. "github.com/leclerc04/go-tool/agl/util/jsonutil"
+	"github.com/leclerc04/go-tool/agl/util/must"
 )
 
 func TestJSONMergeSample(t *testing.T) {

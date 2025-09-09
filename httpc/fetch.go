@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/leclecr04/go-tool/errorx"
+	"github.com/leclerc04/go-tool/errorx"
 
 	"github.com/zeromicro/go-zero/core/jsonx"
 

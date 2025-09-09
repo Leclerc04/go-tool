@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/leclecr04/go-tool/agl/util/csvutil"
-	"github.com/leclecr04/go-tool/agl/util/ziputil"
+	"github.com/leclerc04/go-tool/agl/util/csvutil"
+	"github.com/leclerc04/go-tool/agl/util/ziputil"
 	"github.com/stretchr/testify/assert"
 )
 

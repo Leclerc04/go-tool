@@ -1,7 +1,7 @@
 package buildinfo
 
 import (
-	"github.com/leclecr04/go-tool/agl/base/mon"
+	"github.com/leclerc04/go-tool/agl/base/mon"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

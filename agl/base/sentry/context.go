@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/leclecr04/go-tool/agl/util/errs"
+	"github.com/leclerc04/go-tool/agl/util/errs"
 
 	raven "github.com/getsentry/raven-go"
 )
