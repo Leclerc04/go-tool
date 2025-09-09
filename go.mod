@@ -1,4 +1,4 @@
-module github.com/leclecr04/go-tool
+module github.com/leclerc04/go-tool
 
 go 1.21.0
 
@@ -14,6 +14,7 @@ require (
 	github.com/haorendashu/chardet v0.0.0-20170719161817-8b26a057244e
 	github.com/kakuilan/kgo v0.4.6
 	github.com/kylelemons/godebug v1.1.0
+	github.com/leclecr04/go-tool v0.1.3
 	github.com/mr-tron/base58 v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.17.0
@@ -43,7 +44,6 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
